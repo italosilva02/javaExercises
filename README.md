@@ -1,0 +1,2 @@
+# javaExercises
+Exercícios em Java.
