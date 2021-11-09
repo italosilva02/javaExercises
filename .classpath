@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ws-eclipse/Aula2/src"/>
+	<classpathentry kind="src" path="ws-eclipse/Aula2209/src"/>
+	<classpathentry kind="src" path="ws-eclipse/AulaEstacio20212Q/src"/>
+	<classpathentry kind="src" path="ws-eclipse/banco/src"/>
+	<classpathentry kind="src" path="ws-eclipse/BankMeneger/src"/>
+	<classpathentry kind="src" path="ws-eclipse/course/src"/>
+	<classpathentry kind="src" path="ws-eclipse/EstoqueUdemy/src"/>
+	<classpathentry kind="src" path="ws-eclipse/Exercicio15092021/src"/>
+	<classpathentry kind="src" path="ws-eclipse/Exercicio9/src"/>
+	<classpathentry kind="src" path="ws-eclipse/Exerciciosecao8_1/src"/>
+	<classpathentry kind="src" path="ws-eclipse/Exerciciosecao8_2/src"/>
+	<classpathentry kind="src" path="ws-eclipse/ExercicioSecao8/src"/>
+	<classpathentry kind="src" path="ws-eclipse/ExercicioSecaoeight/src"/>
+	<classpathentry kind="src" path="ws-eclipse/ExercicioSecaoEight1/src"/>
+	<classpathentry kind="src" path="ws-eclipse/OlaMundo/src"/>
+	<classpathentry kind="src" path="ws-eclipse/Tarefa2/src"/>
+	<classpathentry kind="output" path="ws-eclipse/Aula2/bin"/>
+</classpath>
